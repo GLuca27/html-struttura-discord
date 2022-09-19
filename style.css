@@ -21,5 +21,126 @@ header{
     align-self: center;
     display: flex;
     justify-content: space-between;
+    border: dotted;
+}
+
+.box1{
+    background-color: rgb(0, 0, 88); 
+    display: flex;
+    justify-content: center;
+    height: 300px;
+    border: dotted;
+}
+
+.figlio1{
+    height: 230px;
+    width: 500px;
+    background-color: palevioletred;
+    border: dotted;
+    margin: 35px 0px;
+}
+
+.box2{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
+
+.figlio2{
+   background-color: blue; 
+   height: 300px;
+   width: 450px;
+   border: dotted;
+   margin: 50px 0px;
+}
+
+.figlio3{
+    background-color: palevioletred;
+    height: 300px;
+    width: 250px;
+    border: dotted;
+    margin: 50px 0px;
+}
+
+.box3{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    height: 400px;
+}
+
+.figlio4{
+   background-color: palevioletred; 
+   height: 300px;
+   width: 450px;
+   margin: 50px 0px;
+   border: dotted;
+}
+
+.figlio5{
+    background-color: blue;
+    height: 300px;
+    width: 250px;
+    border: dotted;
+    margin: 50px 0px;
+}
+
+.box4{
+    background-color: gray;
+    display: flex;
+    justify-content: center;
+    height: 560px;
+}
+
+.figlio6{
+    background-color: green;
+    height: 500px;
+    width: 700px;
+    margin: 30px;
+    border: dotted;
+}
+
+.box5{
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    height: 230px;
+}
+
+.figlio7{
+    background-color: coral;
+    height: 200px;
+    width: 300px;
+    border: dotted;
+    border-color: white;
+    margin: 10px 0px;
+}
+
+.figli{
+    background-color:cadetblue;
+    height: 200px;
+    width: 100px;
+    border: dotted;
+    border-color: white;
+    margin: 10px 0px;
+}
+
+footer{
+    background-color: black;
+    height: 50px;
+}
+
+.foot{
+    background-color: aqua;
+    border: dotted;
+    border-color: white;
+    height:40px;
+    display: flex;
+    justify-content: space-between;
+}
+
+button{
+    background-color: palevioletred;
 }
 
