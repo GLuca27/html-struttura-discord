@@ -19,8 +19,7 @@ header{
     width: 600px;
     background-color: #daa520;
     align-self: center;
+    display: flex;
+    justify-content: space-between;
 }
 
-.head div{
-    flex-direction: row;
-}
