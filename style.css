@@ -9,11 +9,18 @@
     background-color:aquamarine;
 }
 
+header{
+    display: flex;
+    justify-content: center;
+}
+
 .head{
     height: 30px;
-    width: 400px;
-    display: flex;
+    width: 600px;
     background-color: #daa520;
-    flex-direction: column;
-    justify-content: center;
+    align-self: center;
+}
+
+.head div{
+    flex-direction: row;
 }
